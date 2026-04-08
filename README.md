@@ -20,8 +20,8 @@ Este repositorio tiene la aplicación mobile, front-end y back-end para el resta
 - [Tareas](#tareas)
 - [Branches](#branches)
 - [Arquitectura](#️-arquitectura)
-- [Stack Tecnológico](#🧩-stack-tecnológico)
-- [Instalación](#️instalación)
+- [Stack Tecnológico](#-stack-tecnológico)
+- [Instalación](#️-instalación)
 
 
 ---
