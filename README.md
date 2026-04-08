@@ -14,14 +14,14 @@ Este repositorio tiene la aplicación mobile, front-end y back-end para el resta
 
 ## 📚 Índice
 
-- [Descripción](#-descripción)
-- [Autores](#-autores)
-- [Módulos](#-testing)
-- [Tareas](#-tareas)
-- [Branches](#-branches)
-- [Arquitectura](#️-arquitectura)
-- [Stack Tecnológico](#-stack-tecnológico)
-- [Instalación](#️-instalación)
+- [Descripción](#descripción)
+- [Autores](#autores)
+- [Módulos](#testing)
+- [Tareas](#tareas)
+- [Branches](#branches)
+- [Arquitectura](#️arquitectura)
+- [Stack Tecnológico](#stack-tecnológico)
+- [Instalación](#️instalación)
 
 
 ---
